@@ -41,8 +41,10 @@ sudo responder -I eth0
 ```
 <img src="https://github.com/Nisha318/Nisha318.github.io/blob/master/assets/images/tcm-academy/llmnr-capture-ntlmv2hash-6.png"> 
 
+<img src="https://github.com/Nisha318/Nisha318.github.io/blob/master/assets/images/tcm-academy/llmnr-capture-ntlmv2hash-8.png"> 
+
+
+## Use John to crack the hash 
 
 <img src="https://github.com/Nisha318/Nisha318.github.io/blob/master/assets/images/tcm-academy/llmnr-capture-ntlmv2hash-7.png"> 
 
-## Use John to crack the hash 
-<img src="https://github.com/Nisha318/Nisha318.github.io/blob/master/assets/images/tcm-academy/llmnr-capture-ntlmv2hash-8.png"> 

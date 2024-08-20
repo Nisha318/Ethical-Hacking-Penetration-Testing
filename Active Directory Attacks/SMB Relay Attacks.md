@@ -22,15 +22,29 @@ sudo mousepad /etc/responder/Responder.conf
 
 <img src="https://github.com/Nisha318/Nisha318.github.io/blob/master/assets/images/tcm-academy/smb-relay-5.png">
 
+```bash
+sudo responder -I eth0 
+```
 <img src="https://github.com/Nisha318/Nisha318.github.io/blob/master/assets/images/tcm-academy/smb-relay-6.png">
 
+```bash
+sudo responder -I eth0 
+```
 <img src="https://github.com/Nisha318/Nisha318.github.io/blob/master/assets/images/tcm-academy/smb-relay-7.png">
 
 <img src="https://github.com/Nisha318/Nisha318.github.io/blob/master/assets/images/tcm-academy/smb-relay-8.png">
 
+```bash
+sudo responder -I eth0 
+```
+
 <img src="https://github.com/Nisha318/Nisha318.github.io/blob/master/assets/images/tcm-academy/smb-relay-9.png">
 
 <img src="https://github.com/Nisha318/Nisha318.github.io/blob/master/assets/images/tcm-academy/smb-relay-10.png">
+
+```bash
+sudo responder -I eth0 
+```
 
 <img src="https://github.com/Nisha318/Nisha318.github.io/blob/master/assets/images/tcm-academy/smb-relay-11.png">
 

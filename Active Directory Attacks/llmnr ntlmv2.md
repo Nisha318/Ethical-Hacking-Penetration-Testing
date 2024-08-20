@@ -13,15 +13,17 @@ sudo responder -I eth0
 
 <img src="https://github.com/Nisha318/Nisha318.github.io/blob/master/assets/images/tcm-academy/llmnr-capture-ntlmv2hash-2.png"> 
 
-<img src="https://github.com/Nisha318/Nisha318.github.io/blob/master/assets/images/tcm-academy/llmnr-capture-ntlmv2hash-3.png"> 
+
 
 
 
 
 ## Trigger an LLMNR Event
 
+<img src="https://github.com/Nisha318/Nisha318.github.io/blob/master/assets/images/tcm-academy/llmnr-capture-ntlmv2hash-3.png"> 
+
 <img src="https://github.com/Nisha318/Nisha318.github.io/blob/master/assets/images/tcm-academy/llmnr-capture-ntlmv2hash-4.png"> 
-<img src="#"> 
+
 
 ## Dumping NTLMv2 Hashes
 

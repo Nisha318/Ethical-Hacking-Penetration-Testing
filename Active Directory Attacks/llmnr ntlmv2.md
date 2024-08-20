@@ -22,15 +22,16 @@ sudo responder -I eth0
 
 <img src="https://github.com/Nisha318/Nisha318.github.io/blob/master/assets/images/tcm-academy/llmnr-capture-ntlmv2hash-3.png"> 
 
-<img src="https://github.com/Nisha318/Nisha318.github.io/blob/master/assets/images/tcm-academy/llmnr-capture-ntlmv2hash-4.png"> 
+
 
 
 ## Dumping NTLMv2 Hashes
+<img src="https://github.com/Nisha318/Nisha318.github.io/blob/master/assets/images/tcm-academy/llmnr-capture-ntlmv2hash-4.png"> 
 
-<img src="https://github.com/Nisha318/Nisha318.github.io/blob/master/assets/images/tcm-academy/llmnr-capture-ntlmv2hash-5.png"> 
 
 
 ## Save Hash to a file
+<img src="https://github.com/Nisha318/Nisha318.github.io/blob/master/assets/images/tcm-academy/llmnr-capture-ntlmv2hash-5.png"> 
 
 <img src="https://github.com/Nisha318/Nisha318.github.io/blob/master/assets/images/tcm-academy/llmnr-capture-ntlmv2hash-6.png"> 
 

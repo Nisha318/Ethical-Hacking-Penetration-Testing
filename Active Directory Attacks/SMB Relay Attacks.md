@@ -1,21 +1,24 @@
 ## SMB Relay Attacks
 
 ```bash
+nmap --script=smb2-security-mode.nse -445 <target IP address> -Pn
 
 ```
 
 <img src="https://github.com/Nisha318/Nisha318.github.io/blob/master/assets/images/tcm-academy/smb-relay-2.png">
 
 ```bash
-nmap --script=smb2-security-mode.nse -445 <target IP address> -Pn
+ sudo nano targets.txt 
 ```
 <img src="https://github.com/Nisha318/Nisha318.github.io/blob/master/assets/images/tcm-academy/smb-relay-3.png">
 
+```bash
+sudo mousepad /etc/responder/Responder.conf
+```
+
 <img src="https://github.com/Nisha318/Nisha318.github.io/blob/master/assets/images/tcm-academy/smb-relay-4.png">
 
-```bash
- sudo nano targets.txt 
-```
+
 
 <img src="https://github.com/Nisha318/Nisha318.github.io/blob/master/assets/images/tcm-academy/smb-relay-5.png">
 

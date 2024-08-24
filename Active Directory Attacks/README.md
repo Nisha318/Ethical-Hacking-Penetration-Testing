@@ -7,7 +7,7 @@
   
   <li>IPv6 DNS Takeover via MITM6</li>
   
-    #<li></li>
+    # <li></li>
 </ul>
 
 <img src="https://github.com/Nisha318/Nisha318.github.io/blob/master/assets/images/tcm-academy/tcm-pnpt-lab.PNG">

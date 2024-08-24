@@ -1,7 +1,5 @@
 ## IPv6 Takeover via MITM6
 
-<img src="https://github.com/Nisha318/Nisha318.github.io/blob/master/assets/images/tcm-academy/tcm-mitm6-1.png">
-
 <img src="https://github.com/Nisha318/Nisha318.github.io/blob/master/assets/images/tcm-academy/tcm-mitm6-2.png">
 
 <img src="https://github.com/Nisha318/Nisha318.github.io/blob/master/assets/images/tcm-academy/tcm-mitm6-3.png">

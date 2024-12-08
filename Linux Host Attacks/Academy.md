@@ -1,11 +1,12 @@
 # Academy
 
 
-	- Explore FTP directory
-	- Directory Busting
-	- PHP webshell upload
-	- LINPEAS
-  - Post a web server
+### Key Learning Objectives
+- Network service enumeration
+- Hash cracking techniques
+- Web application vulnerability exploitation
+- File upload bypass techniques
+- Linux privilege escalation through cron job manipulation
 
 
 
@@ -76,7 +77,7 @@ https://github.com/pentestmonkey/php-reverse-shell/blob/master/php-reverse-shell
 
 ![image](https://github.com/user-attachments/assets/cf2f7753-3950-40e5-b8c7-920ae11771ea)
 
-Privilege Escalation
+## Privilege Escalation
 
 We are not a root user and we need to perform privilege escalation. 
 
@@ -89,7 +90,7 @@ https://github.com/carlospolop/PEASS-ng/blob/master/linPEAS/README.md
 ![image](https://github.com/user-attachments/assets/8e3130d9-d8d4-4c17-bc47-38eac8ab94e0)
 
 
-Post a web server
+Host a web server
 This will host up a webserver in this folder , we're gonna go and grab this file on this machine. 
 
 
